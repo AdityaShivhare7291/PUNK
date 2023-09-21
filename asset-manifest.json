@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PUNK/static/css/main.9f943fdd.css",
+    "main.js": "/PUNK/static/js/main.86c71d17.js",
+    "index.html": "/PUNK/index.html",
+    "main.9f943fdd.css.map": "/PUNK/static/css/main.9f943fdd.css.map",
+    "main.86c71d17.js.map": "/PUNK/static/js/main.86c71d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f943fdd.css",
+    "static/js/main.86c71d17.js"
+  ]
+}
